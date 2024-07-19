@@ -18,23 +18,23 @@ A Flutter application featuring a custom animated bottom navigation bar with uni
 Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
-\`\`\`bash
-git clone https://github.com/obadaKraishan/custom_bottom_bar.git
-cd custom_bottom_bar_app
-\`\`\`
+```bash
+git clone https://github.com/obadaKraishan/Animated_Bottom_Bar.git
+cd Animated_Bottom_Bar
+```
 
 ### 2. Install Dependencies
-\`\`\`bash
+```bash
 flutter pub get
-\`\`\`
+```
 
 ### 3. Run the Application
-\`\`\`bash
+```bash
 flutter run
-\`\`\`
+```
 
 ## 📄 Project Structure
-\`\`\`plaintext
+```plaintext
 lib/
 ├── models/
 │   └── bottom_nav_item.dart
@@ -46,17 +46,17 @@ lib/
 ├── widgets/
 │   └── custom_bottom_bar.dart
 ├── main.dart
-\`\`\`
+```
 
 ## 🎨 Customization
 ### 1. Update Theme
-Modify the theme settings in \`main.dart\` to customize the app's look and feel.
+Modify the theme settings in `main.dart` to customize the app's look and feel.
 
 ### 2. Update Bottom Navigation Items
-Adjust the navigation items in \`widgets/custom_bottom_bar.dart\` to add or remove items as needed.
+Adjust the navigation items in `widgets/custom_bottom_bar.dart` to add or remove items as needed.
 
 ### 3. Add New Screens
-Create new screens in the \`screens/\` directory and update \`widgets/custom_bottom_bar.dart\` to include them in the app's navigation.
+Create new screens in the `screens/` directory and update `widgets/custom_bottom_bar.dart` to include them in the app's navigation.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
