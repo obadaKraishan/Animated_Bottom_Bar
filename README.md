@@ -8,10 +8,7 @@ A Flutter application featuring a custom animated bottom navigation bar with uni
 - Modern and responsive design
 
 ## 📸 Screenshots
-<video width="320" height="240" controls>
-  <source src="screenshots/home-vid.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+<img src="screenshots/home.png" alt="screenshot"/>
 
 ## 🛠️ Technologies Used
 - **Frontend**: Flutter, Dart
