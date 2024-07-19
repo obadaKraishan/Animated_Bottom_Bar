@@ -8,7 +8,7 @@ A Flutter application featuring a custom animated bottom navigation bar with uni
 - Modern and responsive design
 
 ## 📸 Screenshots
-<img src="screenshots/home.png" alt="screenshot" height="400"/>
+<img src="screenshots/home.png" alt="screenshot" height="500"/>
 
 ## 🛠️ Technologies Used
 - **Frontend**: Flutter, Dart
